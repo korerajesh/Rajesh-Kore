@@ -1,0 +1,9 @@
+Hi this is my First file in Git hud
+
+Hello all & My dear students 
+
+#!/bin/bash
+
+Yum Update -y 
+Yum install nginx -yum 
+rpm -qa | grep -i nginx
