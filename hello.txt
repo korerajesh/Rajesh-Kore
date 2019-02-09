@@ -2,6 +2,8 @@ Hi this is my First file in Git hud
 
 Hello all & My dear students 
 
+
+this is my shell script 
 #!/bin/bash
 
 Yum Update -y 
