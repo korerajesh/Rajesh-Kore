@@ -1,0 +1,2 @@
+export http_proxy=9.193.198.57:3128
+export https_proxy=9.193.198.57:3128

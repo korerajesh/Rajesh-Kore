@@ -9,3 +9,10 @@ this is my shell script
 Yum Update -y 
 Yum install nginx -yum 
 rpm -qa | grep -i nginx
+
+#!/bin/bash
+FRIEND="Rajesh Suresh Mahesh Anudeep"
+for Frind in $"FRIEND"
+do 
+echo " those are not my friend $"FRIEND"
+done 
